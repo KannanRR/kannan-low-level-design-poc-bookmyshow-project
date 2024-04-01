@@ -1,14 +1,14 @@
 # kannan-low-level-design-poc-bookmyshow-project
 ## POC on Low Level Design for Bookmyshow Projects Implementation
 
-# Motive of this Project :
+# Motive of this Project
 
    - Motive of this project POC is to explore on spring boot features.
    - Use of spring data JPA (Hibernate).
    - Create a standarized project folder structure like Controller/DTO/Models/Services/Repository.
    - Create REST API's End points for CREATE/UPDATE/GET methods.
 
-Implementation :
+## Implementation
 
    1. Create/Get Customer REST API End point.
    2. Create/Get City REST API End point.
@@ -18,11 +18,11 @@ Implementation :
    6. Create/Get Theatre REST API End point.
    7. Create/Get Booking REST API End point.
 
-API's Endpoints and Request JSON Formats :
+## API's Endpoints and Request JSON Formats
 
-Customer API
+## Customer API
 
-CREATE Customer
+## CREATE Customer
 
 HTTP Method : POST
 
@@ -39,7 +39,7 @@ Sample JSON Body
     "password": "kannan"
 }
 
-Get Customer
+## Get Customer
 
 HTTP Method : GET
 
