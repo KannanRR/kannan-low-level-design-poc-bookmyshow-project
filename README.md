@@ -1,4 +1,3 @@
-# kannan-low-level-design-poc-bookmyshow-project
 ## POC on Low Level Design for Bookmyshow Projects Implementation
 
 # Motive of this Project
@@ -9,7 +8,7 @@
    - Create REST API's End points for CREATE/UPDATE/GET methods.
    - Use various design patterns like Builder/Strategy 
 
-## Implementation
+## API Implementations
 
    1. Create/Get Customer REST API End point.
    2. Create/Get City REST API End point.
