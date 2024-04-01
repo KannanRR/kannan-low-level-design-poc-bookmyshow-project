@@ -4,9 +4,10 @@
 # Motive of this Project
 
    - Motive of this project POC is to explore on spring boot features.
-   - Use of spring data JPA (Hibernate).
+   - Use of spring data JPA (Hibernate) with MYSQL.
    - Create a standarized project folder structure like Controller/DTO/Models/Services/Repository.
    - Create REST API's End points for CREATE/UPDATE/GET methods.
+   - Use various design patterns like Builder/Strategy 
 
 ## Implementation
 
@@ -22,7 +23,7 @@
 
 ## Customer API
 
-## Create Customer
+### Create Customer
 
 HTTP Method : POST
 
@@ -39,7 +40,7 @@ Sample JSON Body
     "password": "kannan"
 }
 
-## Get Customer
+### Get Customer
 
 HTTP Method : GET
 
@@ -199,3 +200,10 @@ Sample JSON Body
     "showSeatsId": [35,36]
 }
 
+## How to Run this Project Locally
+
+1. Import this Bookmyshow project Folder in to Intellij.
+
+2. Start the Spring boot Application.
+
+3. Use Postman app for executing the REST API's.
