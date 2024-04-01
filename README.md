@@ -22,7 +22,7 @@
 
 ## Customer API
 
-## CREATE Customer
+### CREATE Customer
 
 HTTP Method : POST
 
@@ -39,7 +39,7 @@ Sample JSON Body
     "password": "kannan"
 }
 
-## Get Customer
+### Get Customer
 
 HTTP Method : GET
 
