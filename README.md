@@ -22,7 +22,7 @@
 
 ## Customer API
 
-### CREATE Customer
+## Create Customer
 
 HTTP Method : POST
 
@@ -39,15 +39,15 @@ Sample JSON Body
     "password": "kannan"
 }
 
-### Get Customer
+## Get Customer
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/customer/{id}
 
-City API
+## City API
 
-CREATE City
+### Create City
 
 HTTP Method : POST
 
@@ -60,15 +60,15 @@ Sample JSON Body
 }
 
 
-Get City
+### Get City
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/city/{id}
 
-Movie API
+## Movie API
 
-CREATE Movie
+### Create Movie
 
 HTTP Method : POST
 
@@ -81,15 +81,15 @@ Sample JSON Body
     "rating": "2.3"
 }
 
-Get Movie
+### Get Movie
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/movie/{id}
 
-Hall API
+## Hall API
 
-CREATE Hall
+### Create Hall
 
 HTTP Method : POST
 
@@ -128,15 +128,15 @@ Sample JSON Body
 }
 
 
-Get Hall
+### Get Hall
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/hall/{id}
 
-Show API
+## Show API
 
-CREATE Show
+### Create Show
 
 HTTP Method : POST
 
@@ -152,15 +152,15 @@ Sample JSON Body
 }
 
 
-Get Show
+### Get Show
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/show/{id}
 
-Theatre API
+## Theatre API
 
-CREATE Theatre
+### Create Theatre
 
 HTTP Method : POST
 
@@ -177,15 +177,15 @@ Sample JSON Body
 }
 
 
-Get Theatre
+### Get Theatre
 
 HTTP Method : GET
 
 http://localhost:8080/api/v1/theatre/{id}
 
-Booking API
+## Booking API
 
-CREATE Booking
+### Create Booking
 
 HTTP Method : POST
 
