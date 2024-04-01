@@ -204,6 +204,10 @@ Sample JSON Body
 
 1. Import this Bookmyshow project Folder in to Intellij.
 
-2. Start the Spring boot Application.
+2. Create MYSQL Database "bookmyshow".
 
-3. Use Postman app for executing the REST API's.
+3. Create MYSQL user "bms_api_users" with password "testpass" which is specified in application.properties file.
+
+4. Start the Spring boot Application.
+
+5. Use Postman app for executing the REST API's and testing.
