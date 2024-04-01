@@ -11,12 +11,12 @@
 Implementation :
 
    1. Create/Get Customer REST API End point.
-   1. Create/Get City REST API End point.
-   1. Create/Get Movie REST API End point.
-   1. Create/Get Hall REST API End point.
-   1. Create/Get Show REST API End point.
-   1. Create/Get Theatre REST API End point.
-   1. Create/Get Booking REST API End point.
+   2. Create/Get City REST API End point.
+   3. Create/Get Movie REST API End point.
+   4. Create/Get Hall REST API End point.
+   5. Create/Get Show REST API End point.
+   6. Create/Get Theatre REST API End point.
+   7. Create/Get Booking REST API End point.
 
 API's Endpoints and Request JSON Formats :
 
